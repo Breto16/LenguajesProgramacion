@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SLmOE+kFn1KjA+296NOdmSq6PxLbixMECJA9c36tg2a0MtlkKkf9nSm1yBAataR58zHt9DF5nvudKjQU3b+VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isaac\\OneDrive\\Escritorio\\Git Analisis\\RequerimientosWeb\\Ejercicio2\\Ejercicio2\\Ejercicio2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isaac\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
