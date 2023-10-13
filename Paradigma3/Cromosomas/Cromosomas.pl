@@ -16,3 +16,8 @@ mayor_exactitud(Nombre, Cromosoma) :-
     coincidencia(ListaCromosoma, Cromosoma, CountPersona),
     length(Cromosoma, LengthCromosoma),
     CountPersona =:= LengthCromosoma.
+% mayor_exactitud('Persona3', [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]).   false.
+
+% mayor_exactitud('Persona5', [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]).   true.
+
+% mayor_exactitud('Persona4', [2, 4, 6, 8, 10, 12, 14, 16, 27, 30]).   true.
